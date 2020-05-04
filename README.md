@@ -1,6 +1,6 @@
 # How to install the sample test files on a local web server:(wamp/xampp)
  1. Copy zip file in document root of your server (like /var/www/)
- 2. login to https://dashboard.paytm.com/next/apikeys and find your test api keys.
+ 2. login to https://business.paytm.com/ and https://dashboard.paytm.com/next/apikeys to find your test api keys.
  2. Open config_paytm.php file from the lib folder and update the below constant values.
     - PAYTM_MERCHANT_KEY – Provided by Paytm
     - PAYTM_MERCHANT_MID - Provided by Paytm
@@ -10,7 +10,7 @@
     - pgRedirect.php – This file has the logic of checksum generation and passing all required parameters to Paytm PG. 
     - callback.php – This file has the logic for processing PG response after the transaction        processing.
     - search.php – Testing Status Query API
-    - refund.php - This file has a logic to refund the full and partial ammount to the client.(NOTE: This file works on curl method and can only be run on live web server. free webserver: 000webhost.com
+    - refund.php - This file has a logic to refund the full or partial amount to the client which had previously made. (Note: This file works on curl method and can only be run on live web server. free webserver: https://000webhost.com
     
 # Video installation demo 
 
