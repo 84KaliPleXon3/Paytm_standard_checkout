@@ -20,6 +20,6 @@
   1. getChecksumFromString : For generating the checksum
   2. verifychecksum_eFromStr : For verifing the checksum
   
-     example code can be find here at: https://github.com/Paytm-Payments/Paytm_App_Checksum_Kit_PHP
+     Example code can be find out here: https://github.com/Paytm-Payments/Paytm_App_Checksum_Kit_PHP
   
 
