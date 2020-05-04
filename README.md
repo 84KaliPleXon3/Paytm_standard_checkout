@@ -10,7 +10,7 @@
     - pgRedirect.php – This file has the logic of checksum generation and passing all required parameters to Paytm PG. 
     - callback.php – This file has the logic for processing PG response after the transaction        processing.
     - search.php – Testing Status Query API
-    - refund.php - This file has a logic to refund the full or partial amount to the client which had previously made. (Note: This file works on curl method and can only be run on live web server. free webserver: https://000webhost.com
+    - refund.php - This file has a logic to refund the full or partial amount to the client which had previously made. (Note: This file works on curl method and required live web server. free webserver: https://000webhost.com
 
     
 # Video installation demo 
