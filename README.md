@@ -19,6 +19,7 @@
 # For Offline(Wallet Api) Checksum Utility below are the methods:
   1. getChecksumFromString : For generating the checksum
   2. verifychecksum_eFromStr : For verifing the checksum
+  
     - example code can be find here at: https://github.com/Paytm-Payments/Paytm_App_Checksum_Kit_PHP
   
 
