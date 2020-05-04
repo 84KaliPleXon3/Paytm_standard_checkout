@@ -4,7 +4,7 @@
  2. Open config_paytm.php file from the lib folder and update the below constant values.
     - PAYTM_MERCHANT_KEY – Provided by Paytm
     - PAYTM_MERCHANT_MID - Provided by Paytm
-    - PAYTM_MERCHANT_WEBSITE - Provided by Paytm
+    - PAYTM_MERCHANT_WEBSITE - Provided by Paytm (Ex: WEBSTAGING for test details)
  3. files:
     - Kart.php – Testing transaction through Paytm gateway.
     - pgRedirect.php – This file has the logic of checksum generation and passing all required parameters to Paytm PG. 
