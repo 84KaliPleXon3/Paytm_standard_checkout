@@ -11,7 +11,7 @@
     - callback.php – This file has the logic for processing PG response after the transaction        processing.
     - search.php – Testing Status Query API
     - refund.php - This file has a logic to refund the full or partial amount to the client which had previously made. (Note: This file works on curl method and can only be run on live web server. free webserver: https://000webhost.com
- 5. For indepth detail can be find here https://developer.paytm.com/docs/v1/payment-gateway/
+
     
 # Video installation demo 
 
