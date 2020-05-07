@@ -14,7 +14,8 @@
 
     
 # Video installation demo 
-
+     - You can watch here: https://youtu.be/gvpShOeYd5k
+   
 
 # For Offline(Wallet Api) Checksum Utility below are the methods:
   1. getChecksumFromString : For generating the checksum
