@@ -13,9 +13,8 @@
     - refund.php - This file has a logic to refund the full or partial amount to the client which had previously made. (Note: This file works on curl method and required live web server. free webserver: https://000webhost.com
 
     
-# Video installation demo:
-   
-    You can watch here: https://youtu.be/gvpShOeYd5k
+# Video installation demo:  
+  You can watch here: https://youtu.be/gvpShOeYd5k
 
 # For Offline(Wallet Api) Checksum Utility below are the methods:
   1. getChecksumFromString : For generating the checksum
