@@ -137,9 +137,9 @@ curl_close($ch);
                 
                 <td colspan="1">
                     <H1>Refund (<a href="https://developer.paytm.com/docs/refund-api" target="_blank">Refund API</a>)</H1>
-                    <small><strong>GET Refund Detail & status:</strong> <a href="search.php" target="_blank">Here</a></small></br>
-                    <small><strong>Refund Responce Codes:</strong> <a href="https://developer.paytm.com/docs/refund-api/?ref=refunds#RespCode" target="_blank">Here</a></small></br>
-                    <small><strong>Side Note:</strong> You can only initiate refund amount upto 6 times on a single transaction.</small>
+                    <small><i class="fas fa-info-circle"></i> <strong>GET Refund Detail & status:</strong> <a href="search.php" target="_blank">Here</a></small></br>
+                    <small><i class="fas fa-info-circle"></i> <strong>Refund Responce Codes:</strong> <a href="https://developer.paytm.com/docs/refund-api/?ref=refunds#RespCode" target="_blank">Here</a></small></br>
+                    <small><i class="fas fa-info-circle"></i> <strong>Side Note:</strong> You can only initiate refund amount upto 6 times on a single transaction.</small>
                    <form class="well form-horizontal" method="post">
                       <fieldset>
                          <div class="form-group">
